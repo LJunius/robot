@@ -1,0 +1,15 @@
+{ // 使用 IntelliSense 了解相关属性。 // 悬停以查看现有属性的描述。 // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387 
+    "version": "0.2.0", 
+    "configurations": [ 
+        {   "name": "Cortex Debug", 
+            "cwd": "${workspaceRoot}",
+            "executable": ".\\EWARM\\robot\\Exe\\robot.out", 
+            //固件位置 
+            "request": "launch", 
+            "type": "cortex-debug", 
+            "servertype": "jlink", 
+            //仿真器类型 
+            "device": "STM32F103C8", //设备芯片类型 
+        } 
+    ] 
+}

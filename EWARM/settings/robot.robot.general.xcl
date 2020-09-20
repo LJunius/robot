@@ -1,0 +1,15 @@
+"D:\Robot\IAR\arm\bin\armproc.dll" 
+
+"D:\Robot\IAR\arm\bin\armjlink2.dll" 
+
+"D:\Robot\WorkSpace\robot\EWARM\robot\Exe\robot.out" 
+
+--plugin="D:\Robot\IAR\arm\bin\armbat.dll" 
+
+--device_macro="D:\Robot\IAR\arm\config\debugger\ST\STM32F1xx.dmac" 
+
+--flash_loader="D:\Robot\IAR\arm\config\flashloader\ST\FlashSTM32F10xx8.board" 
+
+
+
+

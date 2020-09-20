@@ -1,0 +1,8 @@
+{
+    "version": 1,
+    "path": "D:\\Robot\\IAR\\",
+    "project":
+    "D:\\Robot\\WorkSpace\\robot\\EWARM\\robot.ewp",
+    "config": "robot",
+    "parallel" : true
+}
